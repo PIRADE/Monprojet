@@ -214,4 +214,6 @@ def main():
         total_score = total_score + score
     affichescore(tabjoue,tabscore)
     print("score: " + str(total_score) + " points.")
+
+# programme principal
 main()
