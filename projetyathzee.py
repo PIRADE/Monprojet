@@ -61,6 +61,8 @@ def combinaison(choix,des):
                     print("vous avez un brelan: " + str(total) + " points.")
     return total
 
+#test suite
+
 def suite(choix,des):
     suite = 1
     for index in range(len(des)):
@@ -87,6 +89,8 @@ def suite(choix,des):
         return 40
     else:
         return 0
+
+#on regarde les combinaisons que l'on peut avoir
 
 def propose(des):
     total=0
