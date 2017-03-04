@@ -27,7 +27,7 @@ def combinaison(choix,des):
                     compteur = -1
             else:
                 compteur = -1
-        if(compteur >= nb_identique)
+        if(compteur >= nb_identique):
             print("la somme des", demax, "fait ", scoredemax)
     if (choix >0 and choix <7) :
        for x in range(5):
